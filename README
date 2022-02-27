@@ -1,1 +1,11 @@
 This is testing
+
+##### GIT REMOTE COMMANDS ######
+
+
+git remote -v ===> for checking remote refer
+git remote add origin <URL> 
+git remote rm origin 
+
+
+
